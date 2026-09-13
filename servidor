@@ -4,6 +4,10 @@ from tcp import Servidor
 import re
 
 
+# Marina Pena Crespo 829844
+# Vinícius Martins Cotrim 828637
+
+
 usuarios = {} # Set para guardas os usuários conectados
 canais = {} # Set para guardar os canais e seus membros
 
